@@ -1,2 +1,2 @@
 # dp-slice-in-golang
-A set of deliberate practice to increase the understanding of slice implementations in GoLang.
+A set of deliberate practice to enhance understanding of slice implementations in Go.
